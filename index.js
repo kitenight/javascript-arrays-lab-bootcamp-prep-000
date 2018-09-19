@@ -6,7 +6,7 @@ destructivelyAppendKitten ("Ralph");
 
 destructivelyPrependKitten("Bob")
 
- destructivelyRemoveLastKitten(pop())
+destructivelyRemoveLastKitten(pop())
  
- destructivelyRemoveFirstKitten(unshift())
+destructivelyRemoveFirstKitten(unshift())
  

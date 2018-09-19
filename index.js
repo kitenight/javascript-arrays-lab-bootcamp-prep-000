@@ -5,3 +5,7 @@ var kittens = ["Milo", "Otis", "Garfield"];
 destructivelyAppendKitten ("Ralph");
 
 destructivelyPrependKitten("Bob")
+
+ destructivelyRemoveLastKitten(pop())
+ 
+ 

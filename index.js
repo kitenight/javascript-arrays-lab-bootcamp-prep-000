@@ -2,6 +2,6 @@
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-var destructivelyAppendKitten = [name];
+destructivelyAppendKitten ("Ralph");
 
-console.log(kittens.concat(destructivelyAppendKitten("Ralph")));
+destructivelyPrependKitten("Bob")

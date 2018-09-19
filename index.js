@@ -2,9 +2,9 @@
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-destructivelyAppendKitten("Ralph");
+var destructivelyAppendKitten = ["Ralph"];
 
-console.log(array1.concat(array2));
+console.log(kittens.concat(array2));
 kittens.concat(destructivelyAppendKitten);
 
 console.log(kittens)

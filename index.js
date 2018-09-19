@@ -2,8 +2,6 @@
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-destructivelyAppendKitten = [kittens..."Ralph"];
-
-push("Ralph");
+kittens.push("Ralph");
 
 console.log(kittens)

@@ -8,4 +8,5 @@ destructivelyPrependKitten("Bob")
 
  destructivelyRemoveLastKitten(pop())
  
+ destructivelyRemoveFirstKitten(unshift())
  
